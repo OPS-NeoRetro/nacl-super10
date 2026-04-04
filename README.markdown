@@ -3,7 +3,7 @@
 [![Azure build status](https://jedisct1.visualstudio.com/Libsodium/_apis/build/status/jedisct1.libsodium?branchName=stable)](https://jedisct1.visualstudio.com/Libsodium/_build/latest?definitionId=3&branchName=stable)
 [![CodeQL scan](https://github.com/jedisct1/libsodium/workflows/CodeQL%20scan/badge.svg)](https://github.com/jedisct1/libsodium/actions)
 
-# ![libsodium](https://raw.github.com/jedisct1/libsodium/master/logo.png)
+# ![libsodium](logo.png)
 
 NaCl Super 10 is a fork of [libsodium](https://github.com/jedisct1/libsodium), redesigned to contain more quantum-safe algorithms with a new name, a cleaner codebase, and modern general-purpose and enterprise CPU architectures in mind.
 
